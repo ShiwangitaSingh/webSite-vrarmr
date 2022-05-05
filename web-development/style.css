@@ -325,13 +325,18 @@ a:hover {
       transition: none !important;
     }
 } */
+.leads {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
 
 .columnn {
     float: right;
-    width: 20%;
-    padding: 4px ;
+    width: 25%;
+    /*padding: 4px ;
     /* margin-left: 2%; */
-    margin-right: 3%;
+    /*margin-right: 3%;*/
     text-align: center;
   }
   
@@ -375,7 +380,7 @@ a:hover {
  }
 
  .inner-footer {
-	 width: 95%;
+	 width: 98%;
 	 margin: auto;
 	 padding: 30px 10px;
 	 display: flex;
@@ -403,8 +408,8 @@ a:hover {
 }
 
 .border1 {
-	height: 3px;
-	width: 40px;
+	height: 5px;
+	width: 50px;
 	background: #695cb6;
 	color: #695cb6;
 	background-color: #695cb6;
@@ -646,4 +651,5 @@ li i {
 		 top: 37%;
 	}
 }
+
  
